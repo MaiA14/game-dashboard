@@ -1,4 +1,4 @@
-Game dashboard panel using React, authentication using Okta, Bootstrap and HTML5.
+Game dashboard panel using React, Bootstrap and HTML5. Authentication using Okta.
 
 Before login:
 
