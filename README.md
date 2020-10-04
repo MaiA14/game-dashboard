@@ -16,7 +16,6 @@ The app supports various mobile and browsers.
 
 ![Image of pixelperfect overview](https://i.ibb.co/c3kRN6H/4.png)
 
-![Image of pixelperfect overview](https://i.ibb.co/D9RMZHR/mobile.png)
 
 Details for authentication:\
 Username: maiaa1993@gmail.com\
