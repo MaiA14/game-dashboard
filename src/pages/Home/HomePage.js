@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { withAuth } from '@okta/okta-react';
 
 export default withAuth(
-  class Home extends Component {
+  class HomePage extends Component {
     state = { authenticated: null };
 
     checkAuthentication = async () => {
