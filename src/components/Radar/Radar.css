@@ -1,0 +1,21 @@
+  /* TOP RIGHT CONTAINER */
+  .c-right-top {
+    height: 232px;
+  }
+  
+  .c-right-top .title {
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 20px;
+    color: #03d7fb;
+    text-shadow: 2px 2px 5px #4494d0;
+    font-size: 20px;
+  }
+  
+  .c-right-top .sub-title {
+    color: #0f347c;
+    font-weight: bolder;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 120px;
+  }

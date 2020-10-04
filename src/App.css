@@ -1,38 +1,99 @@
-.App {
+/* GENERAL */
+
+html body {
   text-align: center;
+  background-color: #041231;
+  font-family: "Retron";
+  text-transform: uppercase;
+  margin-top: 80px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: "Retron";
+  src: url("./../src/assets/fonts/Retron2000.ttf");
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.flex {
+  display: flex;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.flex-col {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.c-margin-top {
+  margin-top: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.row {
+  margin-top: 15px;
+}
+
+.c-border {
+  border: 1.5px solid #1b6fa0;
+  box-shadow: 1px 0px 2px 0px #4494d0;
+}
+
+.col-sm-4 {
+  padding-right: 2px;
+}
+
+.col-sm-7 {
+  padding: 0 2px;
+}
+
+.col-lg-7 {
+  z-index: 4;
+}
+
+.col-sm-11 {
+  padding: 0px 2px;
+}
+
+.triangle-corner::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -39px;
+  left: -25px;
+  width: 76px;
+  height: 80px;
+  border-bottom: 2px solid #4192ad;
+  overflow: hidden;
+  background: #041231;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.triangle-corner::after {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: 3;
+  top: 22px;
+  left: 29px;
+  width: 69px;
+  height: 69px;
+  background: #041231;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.stripes {
+  position: absolute;
+  left: 3px;
+  z-index: 2;
+  height: 50px;
+  width: 50px;
+  margin: 5px 6px;
+  background: repeating-linear-gradient( 90deg, transparent, transparent 5px, #2c76a9 5px, #4192ad 10px);
+}
+
+.navbar-brand {
+  font-size: 14px;
+}
+
+.jumbotron {
+  margin-top: 90px;
 }

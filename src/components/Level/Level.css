@@ -1,0 +1,14 @@
+/* BOTTOM CONTAINER */
+.c-bottom {
+    height: 180px;
+    margin-bottom: 15px;
+  }
+  
+  .c-bottom .title {
+    color: #03d7fb;
+    text-shadow: 2px 2px 5px #4494d0;
+    font-size: 11px;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 30px;
+  }

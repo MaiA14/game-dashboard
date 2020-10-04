@@ -1,0 +1,19 @@
+.c-left-top {
+    height: 350px;
+    margin: 0px 0px 8px;
+  }
+  
+  @media (min-width: 1207px) {
+    .c-left-top {
+      margin: 0px -16px 0px 0;
+    }
+  }
+  
+  .c-left-top .title {
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 20px;
+    color: #03d7fb;
+    text-shadow: 2px 2px 5px #4494d0;
+    font-size: 20px;
+  }
