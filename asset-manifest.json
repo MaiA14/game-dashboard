@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/game-dashboard/static/css/main.2d94531f.chunk.css",
+    "main.js": "/game-dashboard/static/js/main.508e5a48.chunk.js",
+    "main.js.map": "/game-dashboard/static/js/main.508e5a48.chunk.js.map",
+    "runtime-main.js": "/game-dashboard/static/js/runtime-main.600d0210.js",
+    "runtime-main.js.map": "/game-dashboard/static/js/runtime-main.600d0210.js.map",
+    "static/css/2.3783b105.chunk.css": "/game-dashboard/static/css/2.3783b105.chunk.css",
+    "static/js/2.0481aa35.chunk.js": "/game-dashboard/static/js/2.0481aa35.chunk.js",
+    "static/js/2.0481aa35.chunk.js.map": "/game-dashboard/static/js/2.0481aa35.chunk.js.map",
+    "index.html": "/game-dashboard/index.html",
+    "precache-manifest.235108a375a255f59e98d4ded4e08224.js": "/game-dashboard/precache-manifest.235108a375a255f59e98d4ded4e08224.js",
+    "service-worker.js": "/game-dashboard/service-worker.js",
+    "static/css/2.3783b105.chunk.css.map": "/game-dashboard/static/css/2.3783b105.chunk.css.map",
+    "static/css/main.2d94531f.chunk.css.map": "/game-dashboard/static/css/main.2d94531f.chunk.css.map",
+    "static/js/2.0481aa35.chunk.js.LICENSE.txt": "/game-dashboard/static/js/2.0481aa35.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/game-dashboard/static/media/Retron2000.4ff45918.ttf",
+    "static/media/okta-sign-in.min.css": "/game-dashboard/static/media/yubikeyDemo.f10c9db1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600d0210.js",
+    "static/css/2.3783b105.chunk.css",
+    "static/js/2.0481aa35.chunk.js",
+    "static/css/main.2d94531f.chunk.css",
+    "static/js/main.508e5a48.chunk.js"
+  ]
+}
