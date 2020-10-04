@@ -36,9 +36,9 @@ export default withAuth(
         <div>
           <p className="lead">
             You have entered the game portal,{' '}
-            <Link to="/dashboard">click here</Link>
+            <Link to="/dashboard">click here to see the dashboard</Link>
           </p>
-          <button className="btn btn-light btn-lg" onClick={this.logout}>
+          <button className="btn btn-primary btn-lg" onClick={this.logout}>
             Logout
           </button>
         </div>

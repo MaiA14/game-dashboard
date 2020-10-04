@@ -8,7 +8,7 @@ import "../../App.css";
 export class Dashboard extends Component {
   render() {
     return (
-      <div className="container c-margin-top">
+      <div className="container">
         <div className="row">
           <Activate></Activate>
           <Radar></Radar>
